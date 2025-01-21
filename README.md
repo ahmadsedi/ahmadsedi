@@ -7,7 +7,9 @@ This is Ahmad, a hands-on software engineer and passionate of:
 
 Here, I'm sharing my experience and new findings:-)
 
-I'm certified Togaf 9 and ArchiMate.
+My Certifications:
+- Certified TOGAF 9.2 
+- ArchiMate 3.2
 
 
 <!--
