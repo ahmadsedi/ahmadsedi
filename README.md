@@ -1,4 +1,12 @@
 ## Hi there 👋
+This is Ahmad, a hands-on software engineer and passionate of:
+- Enterprise software development
+- Cloud computing
+- API design and operation
+- Security
+
+Here, I'm sharing my experience and new foundings:-)
+
 
 <!--
 **ahmadsedi/ahmadsedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
