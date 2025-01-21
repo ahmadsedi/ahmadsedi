@@ -5,7 +5,9 @@ This is Ahmad, a hands-on software engineer and passionate of:
 - API design and operation
 - Security
 
-Here, I'm sharing my experience and new foundings:-)
+Here, I'm sharing my experience and new findings:-)
+
+I'm certified Togaf 9 and ArchiMate.
 
 
 <!--
