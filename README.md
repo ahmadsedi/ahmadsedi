@@ -9,7 +9,8 @@ Here, I'm sharing my experience and new findings:-)
 
 My Certifications:
 - Certified TOGAF 9.2 
-- ArchiMate 3.2
+- Certified ArchiMate 3.2
+- Certified Kubernetes Administrator
 
 
 <!--
